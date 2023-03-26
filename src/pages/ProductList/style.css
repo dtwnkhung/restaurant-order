@@ -1,0 +1,18 @@
+.cart-info {
+  width: 280px;
+}
+
+.btn-remove-item {
+  --size: 2rem;
+  width: var(--size);
+  height: var(--size);
+}
+
+.cart-info {
+  z-index: 10;
+}
+
+.backdrop {
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 5;
+}

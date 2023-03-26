@@ -1,0 +1,12 @@
+.list-food-page {
+  background-image: url("../../assets/img/list-food-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.list-food-container {
+  background-color: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(30px);
+}
